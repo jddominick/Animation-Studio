@@ -1,6 +1,6 @@
 # Animation Studio
 
-Animation Studio is Maple's animation coworker: the same retro-computer workstation as [Maple Studios](https://github.com/jddominick/Maple-Studios), built for animating pixel characters with Claude Code. Give it motion references and character art, and it builds an editable rig, animates it with you, and exports approved frames that Maple can import into your game.
+Animation Studio is home to S.A.D.I.E. (Sprite Animation, Deformation & In-betweening Editor), Maple's animation coworker. It's the same retro-computer workstation as [Maple Studios](https://github.com/jddominick/Maple-Studios), built for animating pixel characters with Claude Code. Give it motion references and character art, and it builds an editable rig, animates it with you, and exports approved frames that Maple can import into your game.
 
 This repo only hosts the installer and updates. The source is private.
 
